@@ -1,7 +1,9 @@
 Example Voting App
 =========
 
-This repo contains an example application to practice CI/CD in the lab of *LFS261 DevOps and SRE Fundamentals: Implementing Continuous Delivery.* 
+This repo contains an example application to practice CI/CD in the labs of ***LFS261 DevOps and SRE Fundamentals: Implementing Continuous Delivery.***
+
+Check [lftraining/devops-repo](https://github.com/lftraining/devops-repo) to setup Jenkins and Docker in Docker (DinD).
 
 Getting started
 ---------------
